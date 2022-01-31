@@ -68,9 +68,9 @@ namespace HomeWorkClass
 
     class PLayer
     {
-        int _age;
-        int _weight;
-        int _growth;
+        private int _age;
+        private int _weight;
+        private int _growth;
 
         public PLayer(int age, int weight, int growth)
         {
